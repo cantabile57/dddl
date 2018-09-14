@@ -15,3 +15,7 @@ Drug Discovery by Deep Learning
 
 </p>
 </details>
+
+
+
+![resources](https://docs.google.com/presentation/d/15o4fLKF_0dsN_0H7yN_MsTAEhUmKTgMFtZmWQbiFWvQ/pub?w=691&h=431)
