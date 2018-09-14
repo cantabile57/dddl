@@ -12,7 +12,7 @@ Deep Learning
 -------------
 * 인공지능을 위한 선형대수 : https://www.youtube.com/watch?v=KKGfjhs_26M
 * 칸아카데미 선형대수 강의 : https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/vector-introduction-linear-algebra
-* Coursera : 
+* Coursera 'Math for ML (season 1~3) : https://www.coursera.org/specializations/mathematics-machine-learning
 
 
 기타 자료글 (수업 소개, 팁 공유 ...)
