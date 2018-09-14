@@ -10,6 +10,7 @@ Deep Learning
 
 선형대수학 및 통계 등
 -------------
+* 인공지능을 위한 선형대수 : https://www.youtube.com/watch?v=KKGfjhs_26M
 * 칸아카데미 선형대수 강의 : https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/vector-introduction-linear-algebra
 * Coursera : 
 
