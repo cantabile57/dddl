@@ -6,11 +6,11 @@ Drug Discovery by Deep Learning
 <details><summary> 스터디 Schedule </summary>
 <p>
 
-| 일시        | 내용         | RMRK  |
+| 일시        | 내용         | 공부할 자료  |
 | ---------- |:-------------:| -----:|
-| 18-09-14   | right-aligned | $1600 |
-| 18-09-21   | centered      |   $12 |
-| 18-09-28   | are neat      |    $1 |
+| 18-09-14   | 스터디 계획 | ... |
+| 18-09-21   | 선형대수학      |  ...  |
+| 18-09-28   | ...      |  ...   |
 
 
 </p>
