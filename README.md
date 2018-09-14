@@ -18,4 +18,5 @@ Drug Discovery by Deep Learning
 
 
 
-![resources](https://docs.google.com/presentation/d/15o4fLKF_0dsN_0H7yN_MsTAEhUmKTgMFtZmWQbiFWvQ/pub?w=691&h=431)
+<iframe src="https://docs.google.com/presentation/d/15o4fLKF_0dsN_0H7yN_MsTAEhUmKTgMFtZmWQbiFWvQ/edit?usp=sharing" width="700" height="400">
+  </iframe>
