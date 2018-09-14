@@ -1,11 +1,6 @@
-Machine Learning
+Machine Learning & Deep Learning
 =============
-
-
-
-Deep Learning
-=============
-
+* 모두를 위한 머신러닝/딥러닝 강의 (홍콩과기대 김성훈 교수) : https://hunkim.github.io/ml/
 
 
 선형대수학 및 통계 등
