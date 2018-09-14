@@ -18,7 +18,7 @@ Deep Learning
 -------------
 * 수학을 포기한 직업 프로그래머가 머신러닝 학습을 시작하기위한 학습법 소개 : http://www.moreagile.net/2015/05/how-to-start-machine-learning-study.html
 * Machine Learing 공부에 필요한 자료들 Link : http://jason-heo.github.io/programming/2015/09/19/ml-materials.html
-* [신약 개발 딥러닝 연구 동향 (2018-1 생명정보분석및프로그래밍 수업발표)]: https://docs.google.com/presentation/d/e/2PACX-1vSJ0hE127QzxFA9lwU7CZrah10YRIWJlkg8AA808ejhvlTKldUx1NlNmhWVOyhCZyZuXx0jN-5vYEe2/embed?start=false&loop=false&delayms=5000
+* [신약 개발 딥러닝 연구 동향 (2018-1 생명정보분석및프로그래밍 수업발표)](https://docs.google.com/presentation/d/e/2PACX-1vSJ0hE127QzxFA9lwU7CZrah10YRIWJlkg8AA808ejhvlTKldUx1NlNmhWVOyhCZyZuXx0jN-5vYEe2/embed?start=false&loop=false&delayms=5000)
 
 추천 도서
 -------------
